@@ -25,8 +25,8 @@ Redux is a tool for centralizing *state* in your application. Redux can be combi
     - Pulser: userData flow in app.jsx, actions.jsx, userReducer.jsx
 
 ## Redux and React Router
->"Redux will be the source of truth for your data and React Router will be the source of truth for your URL. In most of the cases, it is fine to have them separate unless you need to time travel and rewind actions that triggers the change URL."
-####Redux docs
+>"Redux will be the source of truth for your data and React Router will be the source of truth for your URL. In most of the cases, it is fine to have them separate unless you need to time travel and rewind actions that triggers the change URL."  
+#### Redux docs
 
 ## Resources / Sources:
   0. People - Christopher, Alex, Ross, Johnny and I have all worked with Redux on our respecive thesis projects. Hit us up! Scott knows a lot about testing
